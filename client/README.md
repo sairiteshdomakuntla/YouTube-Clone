@@ -37,7 +37,7 @@ Before you can run this application, you need:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sairiteshdomakuntla/YouTube-Clone.git
    cd MusicAPI/client
    ```
 
